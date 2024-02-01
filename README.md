@@ -1,4 +1,5 @@
-![Title](https://github.com/MissionToPsyche/tungsten_12c_web_game-uark/assets/36271826/d81a0e87-ebf3-4d51-94bc-ab7c752a9002)
+![Title](https://github.com/edith-avalos/Practice-game/assets/36271826/6532e07d-8531-4e0d-b8ee-e27c057ecfd2)
+
 
 # About
 
